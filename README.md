@@ -1,6 +1,6 @@
 # n8n Production Playbook
 
-**Lessons from running 100+ live n8n workflows: multilingual WhatsApp AI agents, CRM sync, lead intake and call analysis, all in production with real customers.**
+**Lessons from running 150+ live n8n workflows: multilingual WhatsApp AI agents, CRM sync, lead intake and call analysis, all in production with real customers.**
 
 Most n8n content shows how to *build* a workflow. This playbook covers what happens **after** it goes live: silent failures, green executions that do nothing, memory blowups, race conditions, and API behaviour the docs don't mention.
 
